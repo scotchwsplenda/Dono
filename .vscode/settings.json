@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/202e7909-3890-4585-b7ff-1f9638bbe881/resourceGroups/Oliver_Lockwood_RG/providers/Microsoft.Web/sites/donny",
+    "appService.deploySubpath": "."
+}
